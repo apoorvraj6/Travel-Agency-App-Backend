@@ -14,4 +14,4 @@ Admins can manage travel packages and bookings through the Admin Dashboard. Key 
 
 The backend project is deployed and accessible here:
 
-[Travel Booking Backend](https://travel-agency-app-backend.vercel.app/)
+[Travel Booking Admin Dashboard](https://travel-agency-app-backend.vercel.app/)
