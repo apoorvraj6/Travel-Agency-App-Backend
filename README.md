@@ -1,8 +1,17 @@
-# React + Vite
+## Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Admins can manage travel packages and bookings through the Admin Dashboard. Key features include:
 
-Currently, two official plugins are available:
+- **Package Management**: Admins can create, update, and delete travel packages.
+- **Booking Management**: Admins can view and manage all user bookings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Accessing the Admin Dashboard
+
+1. To access the Admin Dashboard, log in using your admin credentials.
+2. Once logged in, you can manage packages and bookings from the dashboard.
+
+## Deployed Link
+
+The backend project is deployed and accessible here:
+
+[Travel Booking Backend](https://travel-agency-app-backend.vercel.app/)
