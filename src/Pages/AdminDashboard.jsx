@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import PackageList from '../components/PackageList';
-import PackageForm from '../components/PackageForm';
-import BookingList from '../components/BookingList';
+import PackageList from '../Components/PackageList';
+import PackageForm from '../Components/PackageForm';
+import BookingList from '../Components/BookingList';
 
 function AdminDashboard() {
   const [currentPackage, setCurrentPackage] = useState(null);
